@@ -23,4 +23,4 @@ The results can be seen [here](https://rojizo.github.io/stuff/maximalTimes/).
 
 #### Higher order but symmetric graphs
 
-The notebook `notebooks/highorder.ipynb` contains the code to compute $tau$ and $T$ and the ratios for $K_n$, $K_{1,n}$, $C_n$.
+The notebook `notebooks/highorder.ipynb` contains the code to compute $\tau$ and $T$ and the ratios for $K_n$, $K_{1,n}$, $C_n$.
